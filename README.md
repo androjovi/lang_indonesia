@@ -6,7 +6,7 @@ Bahasa indonesia untuk Codeigniter
 <li>Masuk ke application/config/config.php</i>
 <li>Ubah value array pada baris ke 83 menjadi indonesia</i>
 <pre>
-<p>Sebelum diubah</p> 
+Sebelum diubah<br>
 $config['language']	= 'english';
-<p>Sesudah diubah</p>
+<br><br>Sesudah diubah<br>
 $config['language']	= 'indonesia';</pre>
